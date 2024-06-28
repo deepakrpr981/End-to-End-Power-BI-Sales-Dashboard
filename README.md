@@ -26,3 +26,22 @@ Power Query Editor in Power BI is a powerful tool for data cleaning and transfor
 
 3) Create a Date Table
 To work with Data Analysis Expressions (DAX) time intelligence functions, there’s a prerequisite model requirement: You must have at least one date table in your model.
+4) Create Data Model in Power BI Desktop
+Design and create a data model that represents the relationships between different tables in your data. Establish proper relationships, define keys, and establish hierarchies if needed. This step is crucial for accurate analysis and visualization
+
+5) Develop Reports in Power BI Desktop
+Use the Power BI Desktop application to create reports based on your data model. Add visualizations such as charts, tables, and maps to represent the data effectively. Apply filters, slicers, and drill-through functionalities to allow users to interact with the data.
+
+Create Report Background in PowerPoint
+Create Slicers – Date, City, Product, and Channel
+Create Dax measures
+Create Visuals:
+1) Sales By Product and Comparing it with last year’s Sales.
+2) Sales By Month and Comparing it with last year’s Sales.
+3) Sales of top 5 Cities
+4) Compare Profit by channel with Previous year’s Profit
+5) Sales By Customer and Comparing it with last year’s Sales
+6) Create Cards for Sales, Profit, Profit Margin & Product Sold
+6) Implementing DAX Calculations
+We will use Data Analysis Expressions (DAX) to create calculated columns, measures, and calculated tables to perform complex calculations and aggregations. DAX is a powerful formula language that allows you to manipulate data within Power BI.
+
