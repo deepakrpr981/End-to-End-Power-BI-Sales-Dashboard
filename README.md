@@ -4,7 +4,7 @@ allowing users to monitor sales activities, goals, and trends effectively.
 * Identify patterns
 * Measure progress
 * Make informed decisions
-
+![sal](https://github.com/deepakrpr981/End-to-End-Power-BI-Sales-Dashboard/assets/89341801/b11a86b9-b8ab-4492-8879-39ca263af8c1)
 # The Objective of the Sales Dashboard / Business Problem
 The objective of the report is to analyze and present comprehensive insights into sales, profit, orders, profit margin, and various comparisons. It aims to provide a clear understanding of key performance indicators and trends using Power BI. The report objectives can be summarized as follows:
 1. Calculate Total Sales: Calculate and display the total sales value for the selected period, allowing users to understand the overall revenue generated.
