@@ -32,9 +32,9 @@ Design and create a data model that represents the relationships between differe
 5) Develop Reports in Power BI Desktop
 Use the Power BI Desktop application to create reports based on your data model. Add visualizations such as charts, tables, and maps to represent the data effectively. Apply filters, slicers, and drill-through functionalities to allow users to interact with the data.
 
-Create Report Background in PowerPoint
-Create Slicers – Date, City, Product, and Channel
-Create Dax measures
+ * Create Report Background in PowerPoint
+ * Create Slicers – Date, City, Product, and Channel
+ * Create Dax measures
 Create Visuals:
 1) Sales By Product and Comparing it with last year’s Sales.
 2) Sales By Month and Comparing it with last year’s Sales.
